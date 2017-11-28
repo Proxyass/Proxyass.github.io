@@ -1,4 +1,4 @@
-static uint8_t mac[] = { 0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED};
+static uint8_t mac[] = { 0x??, 0x??, 0x??, 0x, 0xFE, 0xED};
 /*adresse mac coller sous le shield ou celle ci par defaut */
 EthernetClient client;
 /* créé un objet client representant la conection */
